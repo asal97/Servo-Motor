@@ -41,7 +41,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 This project is a servo motor written with **Assembly** using **Atmega32** as the AVR simulator
-and **Proteus** software for visualization
+and **Proteus** software for visualization.
  
 
 ### Built With
